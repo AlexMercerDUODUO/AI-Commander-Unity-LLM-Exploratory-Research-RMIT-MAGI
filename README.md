@@ -1,8 +1,6 @@
 # AI-Commander-Unity-LLM-Research-RMIT-MAGI
 A practice-based research project from RMIT University on creating a low-cost LLM-Unity communication pipeline for indie game AI.
-# AI-Commander-Unity-LLM-Exploratory-Research-RMIT-MAGI
 
-A practice-based research project from RMIT University on creating a low-cost LLM-Unity communication pipeline for indie game AI.
 # The AI Commander: An Exploratory Study of LLM-Unity Communication
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
