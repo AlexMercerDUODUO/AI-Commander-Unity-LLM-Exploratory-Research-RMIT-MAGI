@@ -29,7 +29,7 @@ This paper documents an exploratory study into a potential architectural approac
 
 The "AI Commander" system is built on a hierarchical, two-layer architecture that separates strategic reasoning from tactical execution. This approach, guided by the Command Pattern, allows an external LLM to act as a high-level "commander" without the heavy costs and latency of real-time control.
 
-![Core Architecture Diagram](Images/complete_communication_pipeline_architecture.png)
+![Core Architecture Diagram](Key_Images/complete_communication_pipeline_architecture.png)
 
 ---
 
