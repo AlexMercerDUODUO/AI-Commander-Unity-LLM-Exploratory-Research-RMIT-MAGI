@@ -39,7 +39,7 @@ The "AI Commander" system is built on a hierarchical, two-layer architecture tha
 2.  **Remarkable Cost-Effectiveness:** Over a 4-month testing period with 454 API calls, the total operational cost was only **¥0.67 CNY (~$0.58 USD)**, proving the economic feasibility for indie developers.
 3.  **Emergent & Unscripted Behavior:** The LLM autonomously generated a "hold" command—a conservative tactic that was never explicitly programmed—demonstrating contextual reasoning beyond its instructions.
 
-![Cost Dashboard](Images/cost_dashboard.png)
+![Cost Dashboard](https://raw.githubusercontent.com/AlexMercerDUODUO/AI-Commander-Unity-LLM-Exploratory-Research-RMIT-MAGI/refs/heads/main/Key%20Images/cost_dashboard.png)
 
 ---
 
