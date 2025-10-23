@@ -11,7 +11,7 @@ A practice-based research project from RMIT University on creating a low-cost LL
 
 ---
 
-### 🎓 Scholarly Video Essay (6分36秒)
+### 🎓 Scholarly Video Essay (6:36)
 
 [![Watch the video essay on YouTube](https://img.youtube.com/vi/tYeDCry3vtY/hqdefault.jpg)](https://www.youtube.com/watch?v=tYeDCry3vtY)
 
@@ -29,7 +29,7 @@ This paper documents an exploratory study into a potential architectural approac
 
 The "AI Commander" system is built on a hierarchical, two-layer architecture that separates strategic reasoning from tactical execution. This approach, guided by the Command Pattern, allows an external LLM to act as a high-level "commander" without the heavy costs and latency of real-time control.
 
-![Core Architecture Diagram](Images/architecture_diagram.png)
+![Core Architecture Diagram](Images/complete_communication_pipeline_architecture.png)
 
 ---
 
